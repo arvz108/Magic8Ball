@@ -43,7 +43,7 @@ Ask your question and tap to find your destiny
   <h3 align="center">Magic8Ball</h3>
 
   <p align="center">
-    XYLO-PHONE Flutter App
+    Magic8Ball Flutter App
     <br />
     <a href="https://github.com/arvz108/-Magic8Ball/"><strong>Explore the docs »</strong></a>
     <br />
